@@ -1,5 +1,4 @@
 import java.util.Random;
-improt java.util.Arraylist;
 class GenerateRandom {
     public static void main( String args[] ) {
       Random rand = new Random(); //instance of random class
